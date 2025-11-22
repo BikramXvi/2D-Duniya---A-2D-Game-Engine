@@ -9,5 +9,7 @@ package com.bikram.duniya2d.view;
  * @author USER
  */
 public class MainFrame {
-    
+    public static void main(String[] args) {
+        System.out.println("Hello World!!");
+    }
 }
